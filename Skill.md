@@ -54,12 +54,6 @@ When you have a document image and need a human to read it.
 - "Does this invoice show a total of $847.50?"
 - "Is this signature field signed or blank?"
 
-### Legitimacy assessment
-When you want a human assessment of whether something looks genuine.
-- "Does this webpage look like a legitimate news source or a content farm?"
-- "Does this company's About Us page look professionally maintained?"
-- "Does this scanned document look like a genuine invoice?"
-
 ### A/B image comparison
 When you have two candidate images and want a human to select the better one for a stated purpose. Attach **both images in the same email**. State your target or goal in the question body.
 - "Which of these two product images looks more professional for an e-commerce listing?"
